@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEG>
+  <DATAFILES>
+	<login>Lexa</login>
+	<password>lexalexa</password>
+	<pet>
+		<pet>Kitten</pet>
+		<register>Yes</register>
+		<beauty>1253</beauty>
+		<coin>0</coin>
+		<heart>2074</heart>
+		<xp>2164</xp>
+	</pet>
+	<items>
+		<water>1</water>
+		<ball>1</ball>
+	</items>
+  </DATAFILES>
+</TEG>
